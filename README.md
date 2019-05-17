@@ -9,3 +9,4 @@ _ Kapacitor
 
 ### clone the project
 
+onto your terminal launch INSTALL.sh... cross your fingers !
