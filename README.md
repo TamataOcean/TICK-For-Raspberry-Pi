@@ -2,10 +2,10 @@
 Deployment package
 
 ## INSTALL
-- Telegraf
-- InfluxDB
-_ Chronograf
-_ Kapacitor
+- Telegraf 
+- InfluxDB 
+_ Chronograf 
+_ Kapacitor 
 
 ### clone the project
 
